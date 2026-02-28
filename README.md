@@ -12,6 +12,10 @@ A minimal yet production-ready authentication app built with **Clerk** and **Nex
 
 
 
+https://github.com/user-attachments/assets/e79b26cb-9ea4-4048-ae6a-e1d14ac99f58
+
+
+
 
 ## Screenshot 
 
